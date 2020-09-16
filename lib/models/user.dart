@@ -1,7 +1,3 @@
-
-
-
-
 import 'package:flutter_food_delivery/models/order.dart';
 
 import 'order.dart';

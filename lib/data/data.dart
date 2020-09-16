@@ -1,5 +1,3 @@
-
-
 import 'package:flutter_food_delivery/models/food.dart';
 import 'package:flutter_food_delivery/models/order.dart';
 import 'package:flutter_food_delivery/models/restaurant.dart';
